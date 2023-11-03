@@ -30,14 +30,16 @@ Before getting started, ensure you have the following:
 
 
 2. Navigate to the project directory:
-   ```cd django-stripe-checkout```
+   ```
+   cd django-stripe-checkout
+   ```
 
-3. Create a virtual environment and activate it:
+4. Create a virtual environment and activate it:
    ```
    python -m venv venv
    source venv/bin/activate
    ```
-4. Install the required packages:
+5. Install the required packages:
    ```
    pip install -r requirements.txt
    ```
